@@ -27,3 +27,5 @@ app
   .use(vueEcharts)
   .use(has)
   .mount('#app')
+
+  // test
